@@ -1,6 +1,6 @@
-# about nqZyx threeEight
+# about
 
-- 👋 ...@nqZyx -> nqZyx [38]... u mebe theenk u noh me... r not... fer sher u dont...
+- 👋 ...@nqZyx... u mebe theenk u noh me... r not... fer sher u dont...
 - 👀 ...int'rests 
   - d4r - [`Docker`](https://docker.com)
   - d7s - [`DevSecOps`](https://www.devsecops.org)
@@ -9,6 +9,7 @@
   - l3x - [`Linux`](https://www.linux.org)
   - m5b - [`MongoDB`](https://www.mongodb.com)
   - n4s - [`NodeJS`](https://nodejs.org)
+  - u5u - [`Ubuntu`](https://ubuntu.com)
   - other 'stuff'
 - 🌱 ...learnin' -> all 👆 
 - 💞️ ...lookin' -> 'collaborate'?... u noh whut dat means?... huh.. nuthin... yet...
