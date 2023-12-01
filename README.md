@@ -3,15 +3,19 @@
 - 👋 ...@nqZyx... not who/what you think...
 - 👀 ...interests 
   - AoC - [`Advent of Code`](https://adventofcode.com)
-  - d4r - [`Docker`](https://docker.com)
-  - d7s - [`DevSecOps`](https://www.devsecops.org)
-  - j8t - [`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - dkr - [`Docker`](https://docker.com)
+  - DSO - [`DevSecOps`](https://www.devsecops.org)
+  - go - [`Go`](https://go.dev)
+  - js - [`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   - k8s - [`Kubernetes`](https://kubernetes.io)
-  - l3x - [`Linux`](https://www.linux.org)
-  - m5b - [`MongoDB`](https://www.mongodb.com)
-  - m6e - [`Mongoose`](https://mongoosejs.com/)
-  - n4s - [`NodeJS`](https://nodejs.org)
-  - u5u - [`Ubuntu`](https://ubuntu.com)
+  - *nix - [`Linux`](https://www.linux.org)
+  - mikrorm - [`Mikro-ORM`](https://mikro-orm.io)
+  - mongo - [`MongoDB`](https://www.mongodb.com)
+  - mongoose - [`Mongoose`](https://mongoosejs.com/)
+  - node - [`NodeJS`](https://nodejs.org)
+  - react - [`React`](https://react.dev)
+  - ubuntu - [`Ubuntu`](https://ubuntu.com)
+  - yargs - [`Yargs`](https://yargs.js.org)
   - other 'stuff'
 - 🌱 ...learning -> all 👆 
 - 💞️ ...looking -> 'collaborate'?... nothing... yet...
