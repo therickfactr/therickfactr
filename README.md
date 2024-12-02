@@ -14,6 +14,7 @@
   - mongoose - [`Mongoose`](https://mongoosejs.com/)
   - node - [`NodeJS`](https://nodejs.org)
   - react - [`React`](https://react.dev)
+  - rust - [`Rust`](https://rust-lang.org)
   - ubuntu - [`Ubuntu`](https://ubuntu.com)
   - yargs - [`Yargs`](https://yargs.js.org)
   - other 'stuff'
