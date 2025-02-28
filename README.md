@@ -1,28 +1,30 @@
 # about nqZyx
 
-- 👋 ...@nqZyx... not who/what you think...
-- 👀 ...interests 
-  - AoC - [`Advent of Code`](https://adventofcode.com)
-  - dkr - [`Docker`](https://docker.com)
-  - DSO - [`DevSecOps`](https://www.devsecops.org)
-  - go - [`Go`](https://go.dev)
-  - js - [`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - k8s - [`Kubernetes`](https://kubernetes.io)
-  - *nix - [`Linux`](https://www.linux.org)
-  - mikrorm - [`Mikro-ORM`](https://mikro-orm.io)
-  - mongo - [`MongoDB`](https://www.mongodb.com)
-  - mongoose - [`Mongoose`](https://mongoosejs.com/)
-  - node - [`NodeJS`](https://nodejs.org)
-  - react - [`React`](https://react.dev)
-  - rust - [`Rust`](https://rust-lang.org)
-  - ubuntu - [`Ubuntu`](https://ubuntu.com)
-  - yargs - [`Yargs`](https://yargs.js.org)
-  - other 'stuff'
-- 🌱 ...learning -> all 👆 
-- 💞️ ...looking -> 'collaborate'?... nothing... yet...
-- 📫 ...reach me -> [`nqzyx@nqzyx.xyz`](mailto:nqzyx@nqzyx.xyz)... yeah... its a real address...
-- ❓ ...ɳʠζƴᶍ -> there's a story... about a car I once owned and loved... sadly, its long gone... the license plate was `NQU-638` which morphed into `nqZyx [38]` and ultimately, `nqZyx`.
-- 🤣 ...fun facts -> my profile pic started as a poster featuring yours truly from a 2007 [NHTSA](https://nhtsa.gov) *Share the Road with Motorcycles* campaign. A friend found this heavily-modified version of the poster somewhere on the web. I'e been using it for quite some time as my "anonymous" avatar 😉...
+- 👋 ...The Rickfactr (@nqzyx)... a career-long software engineer
+- 👀 ...Things that interest me and skills that I have
+  - [`Agile Software Developmenet`](https://en.wikipedia.org/wiki/Agile_software_development)
+  - [`AWS`](https://aws.amazon.com)
+  - [`Docker`](https://docker.com)
+  - [`DevSecOps`](https://www.devsecops.org)
+  - [`Express`](https://expressjs.com)
+  - [`Golang`](https://go.dev)
+  - [`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [`JSDoc`](https://jsdoc.app)
+  - [`Kubernetes`](https://kubernetes.io)
+  - [`Linux`](https://www.linux.org)
+  - [`MongoDB`](https://www.mongodb.com)
+  - [`Mongoose ODM`](https://mongoosejs.com/)
+  - [`Node.js`](https://nodejs.org)
+  - [`React`](https://react.dev)
+  - [`Rust`](https://rust-lang.org)
+  - [`TypeScript`](https://typescriptlang.org)
+  - [`TypeDoc`](https://typedoc.org)
+  - [`Ubuntu`](https://ubuntu.com)
+  - [`Yargs`](https://yargs.js.org)
+- 🌱 ...What I am learning -> all of the above 👆 
+- 💞️ ...Looking to collaborate? nothing yet...
+- 📫 ...Where can you reach me? [`rick@nqzyx.com`](mailto:rick@nqzyx.com) or [`nqzyx@nqzyx.xyz`](mailti:nqzyx@nqzyx.xyz) (Yeah. Its a real email address)
+- ❓ ...`ɳʠζƴᶍ`? There's a story here about a car I once owned and loved. Sadly, its long gone. The license plate was `NQU-638` which morphed into `nqZyx [38]` and ultimately, `nqZyx`.
 - 📖 ...[about me](ABOUTME.md) --> 🚫 TL;DR;
 <!---
 nqzyx/nqzyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
