@@ -1,6 +1,6 @@
-# about nqZyx
+# about The Rickfactr
 
-- 👋 ...The Rickfactr (@nqzyx)... a career-long software engineer
+- 👋 ...The Rickfactr (@therickfactr)... a career-long software engineer
 - 👀 ...Things that interest me and skills that I have
   - [`Agile Software Developmenet`](https://en.wikipedia.org/wiki/Agile_software_development)
   - [`AWS`](https://aws.amazon.com)
@@ -27,6 +27,6 @@
 - ❓ ...`ɳʠζƴᶍ`? There's a story here about a car I once owned and loved. Sadly, its long gone. The license plate was `NQU-638` which morphed into `nqZyx [38]` and ultimately, `nqZyx`.
 - 📖 ...[about me](ABOUTME.md) --> 🚫 TL;DR;
 <!---
-nqzyx/nqzyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+therickfactr/therickfactr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
