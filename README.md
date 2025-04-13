@@ -2,7 +2,19 @@
 
 - 👋 ...The Rickfactr (@therickfactr)... a software engineer for 40+ years
 - 👀 ...Things that interest me and skills that I have
-  - 
+  - programming languages
+    - [`Golang`](https://go.dev)
+    - [`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+    - [`Python`](https://www.python.org/)
+    - [`Rust`](https://rust-lang.org)
+    - [`TypeScript`](https://typescriptlang.org)
+  - frameworks, libraries & tools
+    - [`Express`](https://expressjs.com)
+    - [`JSDoc`](https://jsdoc.app)
+    - [`LangChain`](https://www.langchain.com)
+    - [`React`](https://react.dev)
+    - [`TypeDoc`](https://typedoc.org)
+    - [`Yargs`](https://yargs.js.org)
   - databases & tools
     - [`DBOS`](https://www.dbos.dev/)
     - [`Microsoft SQL Server`](https://www.microsoft.com/en-us/sql-server/)
@@ -12,14 +24,8 @@
     - [`Supabase`](https://supabase.com)
     - [`Surreal`](https://surrealdb.com)
     - [`TypeORM`](https://typeorm.io)
-  - frameworks, libraries & tools
-    - [`Express`](https://expressjs.com)
-    - [`JSDoc`](https://jsdoc.app)
-    - [`LangChain`](https://www.langchain.com)
-    - [`React`](https://react.dev)
-    - [`TypeDoc`](https://typedoc.org)
-    - [`Yargs`](https://yargs.js.org)
   - operating environments
+    - [`Deno`](https://deno.com)  
     - [`Docker`](https://docker.com)
     - [`Kubernetes`](https://kubernetes.io)
     - [`Linux`](https://www.linux.org)
@@ -28,12 +34,6 @@
       - [`Ubuntu`](https://ubuntu.com)
     - [`macOS`](https://www.apple.com/macos)
     - [`Node.js`](https://nodejs.org)
-  - programming languages
-    - [`Golang`](https://go.dev)
-    - [`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-    - [`Python`](https://www.python.org/)
-    - [`Rust`](https://rust-lang.org)
-    - [`TypeScript`](https://typescriptlang.org)
   - other
     - [`Agile Software Developmenet`](https://en.wikipedia.org/wiki/Agile_software_development)
     - [`AWS`](https://aws.amazon.com)
