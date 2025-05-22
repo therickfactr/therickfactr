@@ -1,4 +1,4 @@
-# about The Rickfactr (@therickfactr)
+# The Rickfactr (@therickfactr)
 👋 software engineering for more than 40 years
 
 ## 👀 ...Things that interest me and skills that I have
