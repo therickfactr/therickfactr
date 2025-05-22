@@ -63,6 +63,9 @@
 ## 💞️ ...Looking to collaborate? 
 Sure! Drop me an email at [`the rick factr at culpeppers corner dot com`]()
 
+## elsewhere on gh
+a previous employer with private repositories insisted that I create a separate GH profile -- [sophos-rickc](https://github.com/sophos-rickc) -- to work for them. Lots of contributions there, but they are all private repos.
+
 ## 📖 ...[about me](ABOUTME.md) --> 🚫 TL;DR;
 <!---
 therickfactr/therickfactr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
