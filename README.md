@@ -3,29 +3,34 @@
 - 👋 ...The Rickfactr (@therickfactr)... a software engineer for 40+ years
 - 👀 ...Things that interest me and skills that I have
   - programming languages
+    - [`C#`](https://dotnet.microsoft.com/en-us/languages/csharp)
     - [`Golang`](https://go.dev)
     - [`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
     - [`Python`](https://www.python.org/)
     - [`Rust`](https://rust-lang.org)
     - [`TypeScript`](https://typescriptlang.org)
   - frameworks, libraries & tools
+    - [`.NET`](https://dotnet.microsoft.com)
     - [`Express`](https://expressjs.com)
     - [`JSDoc`](https://jsdoc.app)
     - [`LangChain`](https://www.langchain.com)
+    - [`MikroORM`](https://mikro-orm.io)
+    - [`Mongoose ODM`](https://mongoosejs.com)
+    - [`Prisma`](https://www.prisma.io/)
     - [`React`](https://react.dev)
+    - [`Sequelize`](https://sequelize.org/)
     - [`TypeDoc`](https://typedoc.org)
+    - [`TypeORM`](https://typeorm.io)
     - [`Yargs`](https://yargs.js.org)
-  - databases & tools
+  - database platforms
+    - [`Cassandra`](https://cassandra.apache.org/_/index.html)
     - [`DBOS`](https://www.dbos.dev/)
-    - [`Microsoft SQL Server`](https://www.microsoft.com/en-us/sql-server/)
+    - [`Microsoft SQL Server`](https://www.microsoft.com/en-us/sql-server)
     - [`MongoDB`](https://www.mongodb.com)
-    - [`Mongoose ODM`](https://mongoosejs.com/)
     - [`PostgreSQL`](https://www.postgresql.org)
     - [`Supabase`](https://supabase.com)
     - [`Surreal`](https://surrealdb.com)
-    - [`TypeORM`](https://typeorm.io)
   - operating environments
-    - [`Deno`](https://deno.com)  
     - [`Docker`](https://docker.com)
     - [`Kubernetes`](https://kubernetes.io)
     - [`Linux`](https://www.linux.org)
@@ -34,15 +39,19 @@
       - [`Ubuntu`](https://ubuntu.com)
     - [`macOS`](https://www.apple.com/macos)
     - [`Node.js`](https://nodejs.org)
-  - other
-    - [`Agile Software Developmenet`](https://en.wikipedia.org/wiki/Agile_software_development)
-    - [`AWS`](https://aws.amazon.com)
-    - [`DevSecOps`](https://www.devsecops.org)
+  - AI
     - [`OpenAI`](https://openai.com)
     - [`xAI`](https://x.ai)
-- 🌱 ...What I am learning -> RAG-based AI development 👆 
-- 💞️ ...Looking to collaborate? nothing yet...
-- 📫 ...Where can you reach me? [`the rick factr at nq zyx dot xyz`]() (Yeah. Its a real email address)
+  - Cloud
+    - [`AWS`](https://aws.amazon.com)
+    - [`Azure`](https://azure.microsoft.com)
+  - other
+    - [`Agile Software Developmenet`](https://en.wikipedia.org/wiki/Agile_software_development)
+    - [`DevSecOps`](https://www.devsecops.org)
+- 🌱 ...What I am learning ->
+  - RAG-based AI development 👆
+- 💞️ ...Looking to collaborate? Sure! Email me!
+- 📫 ...Where can you reach me? [`the rick factr at culpeppers corner dot com`]() (Yeah. Its a real email address)
 - 📖 ...[about me](ABOUTME.md) --> 🚫 TL;DR;
 <!---
 therickfactr/therickfactr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
