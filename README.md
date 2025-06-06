@@ -1,5 +1,5 @@
 # The Rickfactr (@therickfactr)
-👋 software engineering for more than 40 years
+👋 building software solutions for more than 45 years
 
 ## 👀 ...Things that interest me and skills that I have
 
