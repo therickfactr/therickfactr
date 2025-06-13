@@ -18,6 +18,7 @@
 | [`LangChain`](https://www.langchain.com) 
 | [`MikroORM`](https://mikro-orm.io) 
 | [`Mongoose ODM`](https://mongoosejs.com)
+| [`Node.js`](https://nodejs.org)
 | [`Prisma`](https://www.prisma.io/) 
 | [`React`](https://react.dev) 
 | [`Sequelize`](https://sequelize.org/)
@@ -38,11 +39,11 @@
 [`Docker`](https://docker.com)
 | [`Kubernetes`](https://kubernetes.io)
 | [`Linux`](https://www.linux.org)
+| [`Alpine`](https://wiki.alpinelinux.org/wiki/Main_Page)
 | [`Debian`](https://www.debian.org)
 | [`Rocky Linux`](https://rockylinux.org)
 | [`Ubuntu`](https://ubuntu.com)
 | [`macOS`](https://www.apple.com/macos)
-| [`Node.js`](https://nodejs.org)
 
 ### ai
 [`OpenAI`](https://openai.com)
