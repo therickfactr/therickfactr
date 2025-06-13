@@ -2,7 +2,7 @@ I have been a software developer/engineer for a very long time -- more than 40 y
 
 It all started in my college days in the late 1970's when programming languages were almost never cross-platform or, when they were, had specialized syntax on each platform. Programming language(s) changed very slowly -- only once every few years -- and any code needed for a solution was hand-written (i.e., there was no GitHub, NPM, NuGet, etc.) This was a far cry from today's world of software development. 
 
-I was first paid to write software in 1980 or 1981 when I wrote a retail inventory program for a college professor who owned a boot store. The platform was a shiny new Apple IIe with 64KB of RAM and a 110K, 5-1/4" floppy disk. The code was all written in AppleSoft BASIC -- including custom indexed file management. I cannot remember how much I was paid for that code, but I had found my passion.
+I was first paid to write software in 1980 or 1981 when I wrote a retail inventory program for a college professor who owned a boot store. The platform was a shiny new Apple IIe with 64KB of RAM and a 5-1/4" floppy disk drive that could store a whopping 110Kb (yes, KB, not MB!) of data. The code was all written in AppleSoft BASIC -- including custom indexed file management. I cannot remember how much I was paid for that code, but I had found my passion.
 
 Now, I should say that I have never been a competitive programmer. I enjoy building things, especially when there are technical challenges of one wort or another. Occasionally, I like solving puzzles -- mostly 5x5 Sudoku and VERY hard crosswords. I have never been a big fan of competitive programming contests for whatever reason.
 
