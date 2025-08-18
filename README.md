@@ -46,6 +46,7 @@
 | [`macOS`](https://www.apple.com/macos)
 
 ### ai
+[`ThreoAI`](https://threo.synthreo.ai/#/home)
 [`OpenAI`](https://openai.com)
 | [`xAI`](https://x.ai)
 
@@ -55,11 +56,12 @@
 
 ### other stuff
 [`Agile Software Developmenet`](https://en.wikipedia.org/wiki/Agile_software_development)
+| [`Scrum`](https://www.scrum.org)
 | [`Domain Driven Design`](https://domain-driven-software.com/an-introduction-to-domain-driven-design-ddd-1025bce518c2)
 | [`DevSecOps`](https://www.devsecops.org)
 
 ## 🌱 ...What I am learning ->
-[`Retrieval Augmentation Generation (aka, "RAG") development development`](https://www.signitysolutions.com/blog/rag-architecture-techniques-use-cases)
+[`Retrieval Augmentation Generation (aka, "RAG") development`](https://www.signitysolutions.com/blog/rag-architecture-techniques-use-cases)
 
 ## 💞️ ...Looking to collaborate? 
 Sure! Drop me an email at [`the rick factr at culpeppers corner dot com`]()
