@@ -22,8 +22,10 @@
 | [`Prisma`](https://www.prisma.io/) 
 | [`React`](https://react.dev) 
 | [`Sequelize`](https://sequelize.org/)
+| [`Swagger`](https://swagger.io/)
 | [`TypeDoc`](https://typedoc.org)
-| [`TypeORM`](https://typeorm.io) 
+| [`TypeORM`](https://typeorm.io)
+| [`XMLDoc`](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/xmldoc/)
 | [`Yargs`](https://yargs.js.org)
 
 ### database platforms
@@ -44,6 +46,12 @@
 | [`Rocky Linux`](https://rockylinux.org)
 | [`Ubuntu`](https://ubuntu.com)
 | [`macOS`](https://www.apple.com/macos)
+
+### IDEs
+[`Cursor`](https://cursor.com)
+| [`JetBrains DataGrip`](https://www.jetbrains.com/datagrip/)
+| [`JetBrains Rider`](https://www.jetbrains.com/rider/)
+| [`Visual Studio Code`](https://code.visualstudio.com)
 
 ### ai
 [`ThreoAI`](https://threo.synthreo.ai/#/home)
