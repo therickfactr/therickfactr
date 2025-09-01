@@ -54,8 +54,10 @@
 | [`Visual Studio Code`](https://code.visualstudio.com)
 
 ### ai
-[`ThreoAI`](https://threo.synthreo.ai/#/home)
-[`OpenAI`](https://openai.com)
+[`ThreoAI`](https://threo.synthreo.ai/)
+| [`Grok (x.ai)`](https://grok.com)
+| [`ChatGPT`](https://chatgpt.com/)
+| [`OpenAI`](https://openai.com)
 | [`xAI`](https://x.ai)
 
 ### cloud
