@@ -47,7 +47,7 @@
 | [`Ubuntu`](https://ubuntu.com)
 | [`macOS`](https://www.apple.com/macos)
 
-### IDEs
+### editors
 [`Cursor`](https://cursor.com)
 | [`JetBrains DataGrip`](https://www.jetbrains.com/datagrip/)
 | [`JetBrains Rider`](https://www.jetbrains.com/rider/)
