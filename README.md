@@ -1,7 +1,7 @@
 # The Rickfactr (@therickfactr)
 👋 building software solutions for more than 45 years
 
-Also check out my other GitHub Profile from my time at Sophos: [sophos-rickc](https://github.com/sophos-rickc) (2000-2025)
+Also check out my other GitHub Profile from my time at Sophos: [sophos-rickc](https://github.com/sophos-rickc) (2020-2025)
 
 ## 👀 ...Things that interest me and skills that I have
 
