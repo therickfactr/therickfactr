@@ -59,12 +59,13 @@ Also check out my other GitHub Profile from my time at Sophos: [sophos-rickc](ht
 | ~[`Cursor`](https://cursor.com)~
 
 ### ai
-[`ThreoAI`](https://threo.synthreo.ai/)
+[`ChatGPT`](https://chatgpt.com/)
+| [`ChatGPT Codex`](https://chatgpt.com/codex)
 | [`Claude Code`](https://claude.ai/code)
 | [`Grok (x.ai)`](https://grok.com)
-| [`ChatGPT`](https://chatgpt.com/)
-| [`ChatGPT Codex`](https://chatgpt.com/codex)
 | [`OpenAI`](https://openai.com)
+| [`Pieces`](https://pieces.app/)
+| [`ThreoAI`](https://threo.synthreo.ai/)
 | [`xAI`](https://x.ai)
 
 ### cloud
