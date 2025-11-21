@@ -6,7 +6,8 @@ Also check out my other GitHub Profile from my time at Sophos: [sophos-rickc](ht
 ## 👀 ...Things that interest me and skills that I have
 
 ### programming languages
-[`C#`](https://dotnet.microsoft.com/en-us/languages/csharp) 
+[`bash`](https://www.gnu.org/software/bash/)
+| [`C#`](https://dotnet.microsoft.com/en-us/languages/csharp)
 | [`Golang`](https://go.dev) 
 | [`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 | [`Python`](https://www.python.org/) 
@@ -16,6 +17,7 @@ Also check out my other GitHub Profile from my time at Sophos: [sophos-rickc](ht
 ### frameworks, libraries, and tools
 [`.NET`](https://dotnet.microsoft.com) 
 | [`Express`](https://expressjs.com) 
+| [`FusionCache`](https://github.com/ZiggyCreatures/FusionCache)
 | [`JSDoc`](https://jsdoc.app)
 | [`LangChain`](https://www.langchain.com) 
 | [`MikroORM`](https://mikro-orm.io) 
@@ -24,6 +26,7 @@ Also check out my other GitHub Profile from my time at Sophos: [sophos-rickc](ht
 | [`Prisma`](https://www.prisma.io/) 
 | [`React`](https://react.dev) 
 | [`Sequelize`](https://sequelize.org/)
+| [`shdoc`](https://github.com/reconquest/shdoc/blob/master/README.md)
 | [`Swagger`](https://swagger.io/)
 | [`TypeDoc`](https://typedoc.org)
 | [`TypeORM`](https://typeorm.io)
@@ -40,25 +43,27 @@ Also check out my other GitHub Profile from my time at Sophos: [sophos-rickc](ht
 | [`Surreal`](https://surrealdb.com)
 
 ### operating environments
-[`Docker`](https://docker.com)
+[`Alpine`](https://wiki.alpinelinux.org/wiki/Main_Page)
+| [`Debian`](https://www.debian.org)
+| [`Docker`](https://docker.com)
 | [`Kubernetes`](https://kubernetes.io)
 | [`Linux`](https://www.linux.org)
-| [`Alpine`](https://wiki.alpinelinux.org/wiki/Main_Page)
-| [`Debian`](https://www.debian.org)
+| [`macOS`](https://www.apple.com/macos)
 | [`Rocky Linux`](https://rockylinux.org)
 | [`Ubuntu`](https://ubuntu.com)
-| [`macOS`](https://www.apple.com/macos)
 
 ### editors
-[`Cursor`](https://cursor.com)
+[`Visual Studio Code`](https://code.visualstudio.com)
 | [`JetBrains DataGrip`](https://www.jetbrains.com/datagrip/)
 | [`JetBrains Rider`](https://www.jetbrains.com/rider/)
-| [`Visual Studio Code`](https://code.visualstudio.com)
+| ~[`Cursor`](https://cursor.com)~
 
 ### ai
 [`ThreoAI`](https://threo.synthreo.ai/)
+| [`Claude Code`](https://claude.ai/code)
 | [`Grok (x.ai)`](https://grok.com)
 | [`ChatGPT`](https://chatgpt.com/)
+| [`ChatGPT Codex`](https://chatgpt.com/codex)
 | [`OpenAI`](https://openai.com)
 | [`xAI`](https://x.ai)
 
