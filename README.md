@@ -12,6 +12,7 @@ Also check out my other GitHub Profile from my time at Sophos: [sophos-rickc](ht
 | [`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 | [`Python`](https://www.python.org/) 
 | [`Rust`](https://rust-lang.org) 
+| [`Terraform`](https://developer.hashicorp.com/terraform)
 | [`TypeScript`](https://typescriptlang.org)
 
 ### frameworks, libraries, and tools
@@ -59,14 +60,12 @@ Also check out my other GitHub Profile from my time at Sophos: [sophos-rickc](ht
 | ~[`Cursor`](https://cursor.com)~
 
 ### ai
-[`ChatGPT`](https://chatgpt.com/)
-| [`ChatGPT Codex`](https://chatgpt.com/codex)
+[`ThreoAI`](https://threo.synthreo.ai/)
 | [`Claude Code`](https://claude.ai/code)
 | [`Grok (x.ai)`](https://grok.com)
-| [`OpenAI`](https://openai.com)
 | [`Pieces`](https://pieces.app/)
-| [`ThreoAI`](https://threo.synthreo.ai/)
-| [`xAI`](https://x.ai)
+| [`ChatGPT Codex`](https://chatgpt.com/codex)
+| [`Microsoft Copilot`](https://copilot.microsoft.com)
 
 ### cloud
 [`AWS`](https://aws.amazon.com)
