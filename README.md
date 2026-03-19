@@ -17,6 +17,7 @@ Also check out my other GitHub Profile from my time at Sophos: [sophos-rickc](ht
 
 ### frameworks, libraries, and tools
 [`.NET`](https://dotnet.microsoft.com) 
+| [`Entity Framework Core`](https://learn.microsoft.com/en-us/ef/core/)
 | [`Express`](https://expressjs.com) 
 | [`FusionCache`](https://github.com/ZiggyCreatures/FusionCache)
 | [`JSDoc`](https://jsdoc.app)
