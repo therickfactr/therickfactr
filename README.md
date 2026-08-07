@@ -3,7 +3,20 @@
 
 Also check out my other GitHub Profile from my time at Sophos: [sophos-rickc](https://github.com/sophos-rickc) (2020-2025)
 
-## 👀 ...Things that interest me and skills that I have
+## 👀 ...Skills and interest
+
+### synthreo (ai)
+[`Threo`](https://threo.synthreo.ai/)
+| [`Pylon`](https://pylon.synthreo.ai/)
+| [`Canopy`](https://canopy.synthreo.ai/)
+
+### ai
+[`Claude Code`](https://claude.ai/code)
+| [`Grok (X.ai)`](https://grok.com/)
+| [`Codex`](https://chatgpt.com/codex)
+| [`Cline`](https://app.cline.bot/)
+| [`Pi`](https://pi.ai/)
+| [`Pieces`](https://pieces.app/)
 
 ### programming languages
 [`bash`](https://www.gnu.org/software/bash/)
@@ -56,17 +69,7 @@ Also check out my other GitHub Profile from my time at Sophos: [sophos-rickc](ht
 
 ### editors
 [`Visual Studio Code`](https://code.visualstudio.com)
-| [`JetBrains DataGrip`](https://www.jetbrains.com/datagrip/)
-| [`JetBrains Rider`](https://www.jetbrains.com/rider/)
 | ~[`Cursor`](https://cursor.com)~
-
-### ai
-[`ThreoAI`](https://threo.synthreo.ai/)
-| [`Claude Code`](https://claude.ai/code)
-| [`Grok (x.ai)`](https://grok.com)
-| [`Pieces`](https://pieces.app/)
-| [`ChatGPT Codex`](https://chatgpt.com/codex)
-| [`Microsoft Copilot`](https://copilot.microsoft.com)
 
 ### cloud
 [`AWS`](https://aws.amazon.com)
