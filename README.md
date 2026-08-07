@@ -6,15 +6,15 @@ Also check out my other GitHub Profile from my time at Sophos: [sophos-rickc](ht
 ## 👀 ...Skills and interest
 
 ### synthreo (ai)
-[`Threo`](https://threo.synthreo.ai/)
+[`Canopy`](https://canopy.synthreo.ai/)
 | [`Pylon`](https://pylon.synthreo.ai/)
-| [`Canopy`](https://canopy.synthreo.ai/)
+| [`Threo`](https://threo.synthreo.ai/)
 
 ### ai
 [`Claude Code`](https://claude.ai/code)
-| [`Grok (X.ai)`](https://grok.com/)
 | [`Codex`](https://chatgpt.com/codex)
 | [`Cline`](https://app.cline.bot/)
+| [`Grok (X.ai)`](https://grok.com/)
 | [`Pi`](https://pi.ai/)
 | [`Pieces`](https://pieces.app/)
 
