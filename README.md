@@ -5,7 +5,7 @@ Also check out my other GitHub Profile from my time at Sophos: [sophos-rickc](ht
 
 ## 👀 ...Skills and interest
 
-### synthreo (ai)
+### [Synthreo](https://synthreo.ai) (ai)
 [`Canopy`](https://canopy.synthreo.ai/)
 | [`Pylon`](https://pylon.synthreo.ai/)
 | [`Threo`](https://threo.synthreo.ai/)
