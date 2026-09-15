@@ -16,7 +16,6 @@ Also check out my other GitHub Profile from my time at Sophos: [sophos-rickc](ht
 | [`Cline`](https://app.cline.bot/)
 | [`Grok (X.ai)`](https://grok.com/)
 | [`Pi`](https://pi.ai/)
-| [`Pieces`](https://pieces.app/)
 
 ### programming languages
 [`bash`](https://www.gnu.org/software/bash/)
